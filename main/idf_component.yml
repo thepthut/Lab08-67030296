@@ -1,0 +1,10 @@
+dependencies:
+  # รอ URL จากเพื่อนคนที่ 1 (sensor)
+  sensor_component:
+    git: https://github.com/PetchAuisui/Lab08-component.git
+  # รอ URL จากเพื่อนคนที่ 2 (display)  
+  display_component:
+    git: https://github.com/Paphattssorn/Lab08-component.git
+  # URL ของ LED component ของคุณ
+  led_component:
+    git: https://github.com/thepthut/Lab08-component.git
